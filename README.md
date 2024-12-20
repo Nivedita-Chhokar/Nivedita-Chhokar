@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nivedita</h1>
-<h3 align="center">Tech Enthusiast | CSE Student | Passionate About Real-World Impact Through AI-ML</h3>
+<h3 align="center">Tech Enthusiast | CSE Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivedita-chhokar&label=Profile%20views&color=0e75b6&style=flat" alt="nivedita-chhokar" /> </p>
 
